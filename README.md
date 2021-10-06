@@ -1,6 +1,4 @@
 # test1
 
-Sex feels fucking great yo!
 
-
-google
+This is an updated version of the file.
